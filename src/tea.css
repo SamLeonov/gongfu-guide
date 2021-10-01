@@ -1,0 +1,23 @@
+#main{
+    background-color:rgba(128, 128, 128, 0.8);
+    color:white;
+    border: 5px;
+    border:solid;
+    border-color:black;
+    font-size: large;
+    
+}
+@media (max-width:600px) {
+    body{
+        height:540px;
+        width:480px;
+    }
+}
+
+#wrapper {
+    background-image:url("images/bamboo.jpg");
+   
+    
+}
+
+

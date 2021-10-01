@@ -1,0 +1,13 @@
+button{
+    background-color:darkred;
+    color:white;
+    font-family:bolder;
+    font-size:larger;
+    height:50px;
+    width:100px;
+    border: 5px;
+    border:solid;
+    border-color: darkgrey;
+}
+
+
