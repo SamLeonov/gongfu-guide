@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/gongfu-guide/static/css/main.bf4e33dc.chunk.css",
-    "main.js": "/gongfu-guide/static/js/main.2a998268.chunk.js",
-    "main.js.map": "/gongfu-guide/static/js/main.2a998268.chunk.js.map",
+    "main.css": "/gongfu-guide/static/css/main.7b756aa9.chunk.css",
+    "main.js": "/gongfu-guide/static/js/main.6dc017b6.chunk.js",
+    "main.js.map": "/gongfu-guide/static/js/main.6dc017b6.chunk.js.map",
     "runtime-main.js": "/gongfu-guide/static/js/runtime-main.69605166.js",
     "runtime-main.js.map": "/gongfu-guide/static/js/runtime-main.69605166.js.map",
     "static/js/2.4bbff6d1.chunk.js": "/gongfu-guide/static/js/2.4bbff6d1.chunk.js",
     "static/js/2.4bbff6d1.chunk.js.map": "/gongfu-guide/static/js/2.4bbff6d1.chunk.js.map",
     "index.html": "/gongfu-guide/index.html",
-    "static/css/main.bf4e33dc.chunk.css.map": "/gongfu-guide/static/css/main.bf4e33dc.chunk.css.map",
+    "static/css/main.7b756aa9.chunk.css.map": "/gongfu-guide/static/css/main.7b756aa9.chunk.css.map",
     "static/js/2.4bbff6d1.chunk.js.LICENSE.txt": "/gongfu-guide/static/js/2.4bbff6d1.chunk.js.LICENSE.txt",
     "static/media/tea.css": "/gongfu-guide/static/media/bamboo.dcce7d7d.jpg",
     "static/media/white.42585e40.jpg": "/gongfu-guide/static/media/white.42585e40.jpg"
@@ -16,7 +16,7 @@
   "entrypoints": [
     "static/js/runtime-main.69605166.js",
     "static/js/2.4bbff6d1.chunk.js",
-    "static/css/main.bf4e33dc.chunk.css",
-    "static/js/main.2a998268.chunk.js"
+    "static/css/main.7b756aa9.chunk.css",
+    "static/js/main.6dc017b6.chunk.js"
   ]
 }
